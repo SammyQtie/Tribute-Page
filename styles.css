@@ -1,0 +1,58 @@
+body {
+    background-color: #eee;
+    font-family: arial;
+  }
+  header {
+    text-align: center;
+  }
+  header > h1 {
+    font-family: helvetica;
+  }
+  #img-div {
+    margin: 20px auto;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+  }
+  #image {
+  max-width: 100%;
+  text-align: center;
+  }
+  img {
+    display: block;  
+    text-align: center;
+    margin: 50px auto;
+  }
+  #header {
+    text-align: center;
+    margin: 50px;
+  }
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 35px;
+    font-size: 1.2em;
+  }
+  li{
+    margin: 20px auto;
+  }
+  span {
+    font-weight: 700;
+    font-family: helvetica;
+  }
+  #footer {
+    font-style: italic;
+    max-width: 550px;
+    text-align: left;
+    margin: 30px auto;
+  }
+  #tribute-footer {
+  max-width:  80%;
+  text-align: center;
+  margin: 50px auto;
+  }
+  a {
+    color: #00B2FF;
+    text-decoration: none
+  }
